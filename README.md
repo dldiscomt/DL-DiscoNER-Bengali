@@ -83,15 +83,15 @@ Or on Ubuntu:
 
 ## Screenshots
 input :"কারণ মিষ্টার জেঠমালানি নিজেই বলেছেন আমাকে যে এই চৌত্রিশ নম্বর ঘরের প্রতি তার বিশেষ টান আছে ৷"
-![App Screenshot](https://github.com/aashiqlove/code/blob/main/NER/picture/benpicture-1.jpg?raw=true)
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoNER-Bengali/blob/main/picture/benpicture-1.jpg?raw=true)
 
 
 input :"ওটা নিয়ে জগদীশ জেঠমালানি আর তার ভাগ্নে মাথা ঘামান ৷"
-![App Screenshot ](https://github.com/aashiqlove/code/blob/main/NER/picture/benpicture-2.jpg?raw=true)
+![App Screenshot ](https://github.com/dldiscomt/DL-DiscoNER-Bengali/blob/main/picture/benpicture-2.jpg?raw=true)
 
 
 input :"শান্তিনিকেতনে দীর্ঘকাল না থাকলেও এই সময়টাই নাকি ছিল তাঁদের জীবনের সবচেয়ে সুখকর অধ্যায় ৷"
-![App Screenshot](https://github.com/aashiqlove/code/blob/main/NER/picture/benpicture-3.jpg?raw=true)
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoNER-Bengali/blob/main/picture/benpicture-3.jpg?raw=true)
 
 
 
